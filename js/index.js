@@ -1,4 +1,4 @@
-console.log("js is ready");
+##sole.log("js is ready");
 body {
  background: blue;
 }
